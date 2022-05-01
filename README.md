@@ -10,4 +10,4 @@ https://gist.github.com/Mulperi/453ee95463fdb5aea886aef6207d68fc
 3 - Copy the files from this repo to the root folder
 4 - Compile with mingw32-make
 This works for me.
-Folder should look something like this ![image](https://user-images.githubusercontent.com/83160118/166160907-8092d43f-fd64-4473-a4a5-6b45b8288f79.png)
+Folder should look something like this ![image](https://user-images.githubusercontent.com/83160118/166160980-7fa60bf2-eef4-4083-953c-120d779e7065.png)
