@@ -2,12 +2,22 @@
 Pathfinding alghorithms and visualizations in SFML.
 
 On Windows:
-1 -  Follow the "SFML compile" portion in this guide, except create new designated folder for the source code of SFML,
+
+1 -  Follow the "SFML compile" portion in the guide I linked, except create a new designated folder for the source code of SFML,
 and create the build folder in this folder
 
 https://gist.github.com/Mulperi/453ee95463fdb5aea886aef6207d68fc
+
 2 - Copy the .dll files from /build/lib to the root folder
-3 - Copy the files from this repo to the root folder
-4 - Compile with mingw32-make
-This works for me.
-Folder should look something like this ![image](https://user-images.githubusercontent.com/83160118/166160980-7fa60bf2-eef4-4083-953c-120d779e7065.png)
+
+3 - Copy the source files from this repo to the root folder
+
+4 - Make with mingw32-make
+
+This should work.
+Folder should look something like this ![image](https://user-images.githubusercontent.com/83160118/166161031-88431a3b-9fc2-4203-917e-6d86c3c4782c.png)
+
+Program lookls like this:
+
+![image](https://user-images.githubusercontent.com/83160118/166161939-04e08623-05a6-47a5-ad1f-7caeda1c8431.png)
+
